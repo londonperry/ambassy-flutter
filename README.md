@@ -1,6 +1,6 @@
 # ambassy
 
-A new Flutter project.
+Your brand ambassador management software
 
 ## Getting Started
 
