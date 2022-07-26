@@ -1,6 +1,6 @@
 # ambassy
 
-Your brand ambassador management software.
+Your brand ambassador management software
 
 ## Getting Started
 
